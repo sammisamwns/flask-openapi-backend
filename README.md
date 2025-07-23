@@ -14,6 +14,9 @@ A Flask backend that accepts prompts from frontend applications and returns resp
 ### 1. Install Dependencies
 
 ```bash
+python3 -m venv env
+./env/Scripts/activate
+source ./env/bin/activate
 pip install -r requirements.txt
 ```
 
